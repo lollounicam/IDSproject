@@ -1,13 +1,12 @@
-# Progetto per Ingegneria del Software - Sistema di mappatura di un territorio
+# Progetto per Ingegneria del Software - Titolo del Progetto
 
 Benvenuto nel repository del nostro progetto per il corso di Ingegneria del Software.
 
-## Authors:
+## Autori
 
-
-- ![Mattia Lucarini](https://github.com/mattia-lucarini.png) [Mattia Lucarini](https://github.com/mattia-lucarini)
-- ![Lorenzo Pompili](https://github.com/lorenzo-pompili.png) [Lorenzo Pompili](https://github.com/lorenzo-pompili)
-- ![Alessio Tartufoli](https://github.com/alessio-tartufoli.png) [Alessio Tartufoli](https://github.com/alessio-tartufoli)
+- <img src="https://github.com/mattia-lucarini.png" width="50" height="50" style="border-radius: 50%;"> [Mattia Lucarini](https://github.com/mattia-lucarini)
+- <img src="https://github.com/lorenzo-pompili.png" width="50" height="50" style="border-radius: 50%;"> [Lorenzo Pompili](https://github.com/lorenzo-pompili)
+- <img src="https://github.com/alessio-tartufoli.png" width="50" height="50" style="border-radius: 50%;"> [Alessio Tartufoli](https://github.com/alessio-tartufoli)
 
 
 #File caricati:

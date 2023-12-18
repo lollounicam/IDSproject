@@ -4,9 +4,11 @@ Benvenuto nel repository del nostro progetto per il corso di Ingegneria del Soft
 
 ## Authors:
 
-- [Mattia Lucarini](https://github.com/mattia-lucarini)
-- [Lorenzo Pompili](https://github.com/lollouicam)
-- [Alessio Tartufoli](https://github.com/aleturtle)
+
+- ![Mattia Lucarini](https://github.com/mattia-lucarini.png) [Mattia Lucarini](https://github.com/mattia-lucarini)
+- ![Lorenzo Pompili](https://github.com/lorenzo-pompili.png) [Lorenzo Pompili](https://github.com/lorenzo-pompili)
+- ![Alessio Tartufoli](https://github.com/alessio-tartufoli.png) [Alessio Tartufoli](https://github.com/alessio-tartufoli)
+
 
 #File caricati:
 
